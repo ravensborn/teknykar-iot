@@ -938,10 +938,10 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 }
 
-.rev_slider_wrapper .slide-content-box h1 {
+.rev_slider_wrapper .slide-content-box div {
   color: #ffffff;
     text-shadow: black 0 0 1px;
-  font-size: 55px;
+  font-size: 45px;
   line-height: 62px;
   margin: 14px 0 9px;
   font-weight: 700;

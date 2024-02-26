@@ -22,7 +22,7 @@
                          data-responsive_offset="on"
                          data-start="500">
                         <div class="slide-content-box">
-                            <h1>IOT: Connectivity Simplified</h1>
+                            <div class="h2">IOT: Connectivity Simplified</div>
                             <p>Learn how our IoT platform seamlessly connects devices</p>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                          data-responsive_offset="on"
                          data-start="500">
                         <div class="slide-content-box center">
-                            <h1>Smart Solutions for Your Home</h1>
+                            <div class="h2">Smart Solutions for Your Home</div>
                             <p>Explore our range of IoT-enabled devices and solutions designed to make your home smarter and more efficient.</p>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                          data-responsive_offset="on"
                          data-start="700">
                         <div class="slide-content-box">
-                            <h1>Empowering Businesses with IoT</h1>
+                            <div class="h2">Empowering Businesses with IoT</div>
                             <p>Discover how our IoT solutions empower businesses to streamline operations, improve productivity.</p>
                         </div>
                     </div>
@@ -142,13 +142,10 @@
     <section class="whychoos-us sec-padd2">
         <div class="container">
 
-            <div class="section-title center">
-                <h2>Why Choosing Teknykar</h2>
-                <div class="text">
-                    <p>
-                        Choose Teknykar for unparalleled expertise, curated selection, and personalized support, ensuring your IoT journey is seamless and successful.
-                    </p>
-                </div>
+            <div class="center" style="margin-bottom: 50px;">
+                <h1>
+                    Choose Teknykar for unparalleled expertise, curated selection, and personalized support, ensuring your IoT journey is seamless and successful.
+                </h1>
             </div>
 
 
