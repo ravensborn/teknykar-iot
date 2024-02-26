@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Teknykar</title>
+    <title>Teknykar: Smart solutions for your home and business.</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
