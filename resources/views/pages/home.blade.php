@@ -143,10 +143,10 @@
         <div class="container">
 
             <div class="section-title center">
-                <h2>Why Choosing Everything IOT</h2>
+                <h2>Why Choosing Teknykar</h2>
                 <div class="text">
                     <p>
-                        Choose Everything IOT for unparalleled expertise, curated selection, and personalized support, ensuring your IoT journey is seamless and successful.
+                        Choose Teknykar for unparalleled expertise, curated selection, and personalized support, ensuring your IoT journey is seamless and successful.
                     </p>
                 </div>
             </div>
@@ -192,7 +192,7 @@
                         <a href="#"><h4>Seamless Experience</h4></a>
                         <div class="text">
                             <p>
-                                Enjoy a seamless IoT journey with EverythingIOT, where intuitive navigation, easy ordering, and responsive customer support ensure a hassle-free experience from start to finish.
+                                Enjoy a seamless IoT journey with Teknykar, where intuitive navigation, easy ordering, and responsive customer support ensure a hassle-free experience from start to finish.
                             </p>
                         </div>
                         <div class="count">03</div>
@@ -286,7 +286,7 @@
                     <img src="{{ asset('images/time-net.png') }}" style="width: auto; height: 56px;" alt="TimeNet">
                 </div>
                 <div class="item tool_tip" title="media partner">
-                    <img src="{{ asset('images/everything-iot.png') }}" style="width: auto; height: 56px;"  alt="EverythingIOT">
+                    <img src="{{ asset('images/everythingiot.png') }}" style="width: auto; height: 56px;"  alt="EverythingIOT">
                 </div>
 
             </div>

@@ -29,9 +29,9 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="text-content">
                         <h4>We are always looking for specific approach to each <br>cases &amp; Provide full solutions.</h4>
-                        <p>Welcome to EverythingIOT, your ultimate destination for all things related to the Internet of Things (IoT). We are a passionate team of technology enthusiasts committed to simplifying the complexities of IoT and making it accessible to everyone.</p>
-                        <p>Founded with a vision to empower individuals and businesses with innovative IoT solutions, EverythingIOT offers a curated selection of top-tier IoT products, personalized consultations, custom development services, and comprehensive support.</p>
-                        <p>At EverythingIOT, we believe in the transformative power of IoT to revolutionize the way we live, work, and interact with the world around us. Join us on our journey to explore the endless possibilities of IoT technology and unlock a future where everything is connected.</p>
+                        <p>Welcome to Teknykar, your ultimate destination for all things related to the Internet of Things (IoT). We are a passionate team of technology enthusiasts committed to simplifying the complexities of IoT and making it accessible to everyone.</p>
+                        <p>Founded with a vision to empower individuals and businesses with innovative IoT solutions, Teknykar offers a curated selection of top-tier IoT products, personalized consultations, custom development services, and comprehensive support.</p>
+                        <p>At Teknykar, we believe in the transformative power of IoT to revolutionize the way we live, work, and interact with the world around us. Join us on our journey to explore the endless possibilities of IoT technology and unlock a future where everything is connected.</p>
                     </div>
                 </div>
             </div>

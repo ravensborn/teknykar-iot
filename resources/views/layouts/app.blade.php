@@ -2,19 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Teknykar IOT</title>
+    <title>Teknykar</title>
 
-    <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+    <meta name="description" content="Teknykar: Smart solutions for your home and business.">
+    <meta property="og:site_name" content="Teknykar: Smart solutions for your home and business"/>
+    <meta property="og:title" content="Teknykar: Smart solutions for your home and business"/>
+    <meta property="og:description" content="Teknykar: Smart solutions for your home and business."/>
+    <meta property="og:image" content="{{ asset('images/iot.png') }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://teknykar.com"/>
 
     <link rel="stylesheet" href="{{ asset('theme/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('theme/css/responsive.css') }}">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/iot.png') }}">
-    <link rel="icon" type="image/png" href="{{ asset('images/iot.png') }}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{ asset('images/iot.png') }}" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('favicon/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('favicon/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon/favicon-16x16.png') }}">
+    <link rel="manifest" href="{{ asset('favicon/site.webmanifest') }}">
 
 </head>
 <body>
@@ -128,7 +134,7 @@
 
                                     <div class="widget-content">
                                         <div class="text">
-                                            <p>At Everything IOT, we believe in the transformative power of IoT to revolutionize the way we live, work, and interact with the world around us. Join us on our journey to explore the endless possibilities of IoT technology and unlock a future where everything is connected.</p>
+                                            <p>At Teknykar, we believe in the transformative power of IoT to revolutionize the way we live, work, and interact with the world around us. Join us on our journey to explore the endless possibilities of IoT technology and unlock a future where everything is connected.</p>
                                         </div>
                                         <div class="link">
                                             <a href="{{ route('about') }}" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
