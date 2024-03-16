@@ -34,6 +34,7 @@ class SupportMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
+            from: $this->data['email'],
             to: $this->destination,
             replyTo: $this->data['email'],
             subject: 'New Support Message',
