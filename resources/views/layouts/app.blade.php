@@ -41,7 +41,7 @@
 
                     <ul class="top-bar-info">
                         <li><i class="icon-technology"></i>Phone: +964 (750) 380-7676</li>
-                        <li><i class="icon-note2"></i>info@time-net.net</li>
+                        <li><i class="icon-note2"></i>sale@teknykar.com</li>
                     </ul>
                 </div>
                 <div class="col-right float_right">
@@ -66,12 +66,10 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="main-logo">
-                        <a href="{{ route('home') }}" style="display: flex; justify-content: center; align-items: center;">
-                            <div style="margin-right: 10px;">
-                                <span class="h1">Teknykar</span>
-                            </div>
+                        <a href="{{ route('home') }}" >
+
                             <div>
-                                <img style="width: 64px; height: auto;" src="{{ asset('images/iot.png') }}" alt="Home">
+                                <img style="width: 70%; height: auto;" src="{{ asset('images/logo.png') }}" alt="Home">
                             </div>
                         </a>
                     </div>
@@ -89,6 +87,12 @@
                                 <ul class="dropdown">
                                     <li><a href="https://everythingiot.net">Everything IOT Store</a></li>
                                     <li><a href="https://time-net.net/store">TimeNet Store</a></li>
+                                </ul>
+                            </li>
+
+                            <li><a href="#">IOT Platform</a>
+                                <ul class="dropdown">
+                                    <li><a href="https://everythingiot.net">Everything IOT</a></li>
                                 </ul>
                             </li>
 
@@ -148,12 +152,24 @@
                                     <h3 class="footer-title">Our Services</h3>
                                     <div class="widget-content">
                                         <ul class="list">
-                                            <li>Business Growth</li>
-                                            <li>Sustainability</li>
-                                            <li>Performance</li>
-                                            <li>Advanced Analytics</li>
-                                            <li>Customer Insights</li>
-                                            <li>Organization</li>
+                                            <li>
+                                                <a href="{{ route('services.business-growth') }}">Business Growth</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('services.sustainability') }}">Sustainability</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('services.performance') }}">Performance</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('services.advanced-analytics') }}">Advanced Analytics</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('services.customer-insights') }}">Customer Insights</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('services.organization') }}">Organization</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -166,7 +182,7 @@
                                         <ul class="contact-info">
                                             <li><span class="icon-signs"></span>44001, Ankawa Khabat Street, <br>Erbil, KRI</li>
                                             <li><span class="icon-phone-call"></span> Phone: +964 (750) 380-7676</li>
-                                            <li><span class="icon-e-mail-envelope"></span>info@time-net.net</li>
+                                            <li><span class="icon-e-mail-envelope"></span>sale@teknykar.com</li>
                                         </ul>
                                     </div>
                                     <ul class="social">
@@ -190,8 +206,8 @@
                 </div><!-- /.pull-right -->
                 <div class="pull-right get-text">
                     <ul>
-                        <li><a href="#">Privacy & Policy |</a></li>
-                        <li><a href="#"> Terms & Conditions</a></li>
+                        <li><a href="{{ route('privacy-and-policy') }}">Privacy & Policy |</a></li>
+                        <li><a href="{{ route('terms-and-conditions') }}"> Terms & Conditions</a></li>
                     </ul>
                 </div><!-- /.pull-left -->
             </div><!-- /.container -->

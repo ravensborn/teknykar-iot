@@ -30,4 +30,11 @@ class PageController extends Controller
     {
         return view('pages.terms-and-conditions');
     }
+
+    public function servicePage()
+    {
+        $page = explode('/', request()->route()->uri, 2)[1];
+
+        return view('pages.services.' . $page);
+    }
 }

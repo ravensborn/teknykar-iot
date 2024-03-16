@@ -4,11 +4,12 @@
 @section('content')
 
     <section class="rev_slider_wrapper">
-        <div id="slider1" class="rev_slider"  data-version="5.0">
+        <div id="slider1" class="rev_slider" data-version="5.0">
             <ul>
 
                 <li data-transition="fade">
-                    <img src="{{ asset('images/wallpapers/15.jpg') }}"  alt="" width="1920" height="683" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                    <img src="{{ asset('images/wallpapers/15.jpg') }}" alt="" width="1920" height="683"
+                         data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1">
 
                     <div class="tp-caption tp-resizeme"
                          data-x="right" data-hoffset="0"
@@ -50,7 +51,8 @@
                     </div>
                 </li>
                 <li data-transition="fade">
-                    <img src="{{ asset('images/wallpapers/11.jpg') }}"  alt="" width="1920" height="683" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                    <img src="{{ asset('images/wallpapers/11.jpg') }}" alt="" width="1920" height="683"
+                         data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1">
 
                     <div class="tp-caption tp-resizeme"
                          data-x="center" data-hoffset="0"
@@ -76,7 +78,8 @@
                          data-start="500">
                         <div class="slide-content-box center">
                             <div class="h2">Smart Solutions for Your Home</div>
-                            <p>Explore our range of IoT-enabled devices and solutions designed to make your home smarter and more efficient.</p>
+                            <p>Explore our range of IoT-enabled devices and solutions designed to make your home smarter
+                                and more efficient.</p>
                         </div>
                     </div>
                     <div class="tp-caption tp-resizeme"
@@ -94,7 +97,8 @@
                 </li>
 
                 <li data-transition="fade">
-                    <img src="{{ asset('images/wallpapers/17.jpg') }}"  alt="" width="1920" height="683" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                    <img src="{{ asset('images/wallpapers/17.jpg') }}" alt="" width="1920" height="683"
+                         data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1">
 
                     <div class="tp-caption  tp-resizeme"
                          data-x="left" data-hoffset="15"
@@ -109,7 +113,8 @@
                          data-start="700">
                         <div class="slide-content-box">
                             <div class="h2">Empowering Businesses with IoT</div>
-                            <p>Discover how our IoT solutions empower businesses to streamline operations, improve productivity.</p>
+                            <p>Discover how our IoT solutions empower businesses to streamline operations, improve
+                                productivity.</p>
                         </div>
                     </div>
                     <div class="tp-caption tp-resizeme"
@@ -144,7 +149,8 @@
 
             <div class="center" style="margin-bottom: 50px;">
                 <h1>
-                    Choose Teknykar for unparalleled expertise, curated selection, and personalized support, ensuring your IoT journey is seamless and successful.
+                    Choose Teknykar for unparalleled expertise, curated selection, and personalized support, ensuring
+                    your IoT journey is seamless and successful.
                 </h1>
             </div>
 
@@ -159,7 +165,8 @@
                         <a href="#"><h4>Cutting-Edge Innovation</h4></a>
                         <div class="text">
                             <p>
-                                Benefit from our meticulous selection of top-tier IoT products and solutions, curated from trusted manufacturers, ensuring quality and continues reliability.
+                                Benefit from our meticulous selection of top-tier IoT products and solutions, curated
+                                from trusted manufacturers, ensuring quality and continues reliability.
                             </p>
                         </div>
                         <div class="count">01</div>
@@ -174,7 +181,8 @@
                         <a href="#"><h4>Personalized Guidance</h4></a>
                         <div class="text">
                             <p>
-                                Receive personalized assistance from our knowledgeable team of experts who are dedicated to helping you find the perfect IoT solutions tailored to your specific needs and goals.
+                                Receive personalized assistance from our knowledgeable team of experts who are dedicated
+                                to helping you find the perfect IoT solutions tailored to your specific needs and goals.
                             </p>
                         </div>
                         <div class="count">02</div>
@@ -189,7 +197,8 @@
                         <a href="#"><h4>Seamless Experience</h4></a>
                         <div class="text">
                             <p>
-                                Enjoy a seamless IoT journey with Teknykar, where intuitive navigation, easy ordering, and responsive customer support ensure a hassle-free experience from start to finish.
+                                Enjoy a seamless IoT journey with Teknykar, where intuitive navigation, easy ordering,
+                                and responsive customer support ensure a hassle-free experience from start to finish.
                             </p>
                         </div>
                         <div class="count">03</div>
@@ -214,7 +223,9 @@
                         <div class="content center">
                             <h4>IoT Consultation</h4>
                             <div class="text">
-                                <p>Benefit from personalized consultations with our expert team who will assess your specific needs and provide tailored recommendations for implementing IoT solutions in your home or business.</p>
+                                <p>Benefit from personalized consultations with our expert team who will assess your
+                                    specific needs and provide tailored recommendations for implementing IoT solutions
+                                    in your home or business.</p>
                             </div>
                         </div>
                     </div>
@@ -225,7 +236,9 @@
                         <div class="content center">
                             <h4>Product Selection and Integration</h4>
                             <div class="text">
-                                <p>Choose from a wide range of IoT devices and solutions carefully selected for their quality and reliability. We offer assistance with product selection and seamless integration into your existing systems or environment.</p>
+                                <p>Choose from a wide range of IoT devices and solutions carefully selected for their
+                                    quality and reliability. We offer assistance with product selection and seamless
+                                    integration into your existing systems or environment.</p>
                             </div>
                         </div>
                     </div>
@@ -236,7 +249,9 @@
                         <div class="content center">
                             <h4>Custom IoT Development</h4>
                             <div class="text">
-                                <p>Take advantage of our custom IoT development services to create bespoke solutions tailored to your unique requirements. From hardware design to software development and cloud integration, we'll bring your IoT ideas to life.</p>
+                                <p>Take advantage of our custom IoT development services to create bespoke solutions
+                                    tailored to your unique requirements. From hardware design to software development
+                                    and cloud integration, we'll bring your IoT ideas to life.</p>
                             </div>
                         </div>
                     </div>
@@ -247,7 +262,9 @@
                         <div class="content center">
                             <h4>IoT Security Solutions</h4>
                             <div class="text">
-                                <p>Protect your IoT ecosystem from cyber threats with our comprehensive security services. We offer vulnerability assessments, network monitoring, and implementation of robust security protocols to safeguard your data and devices.</p>
+                                <p>Protect your IoT ecosystem from cyber threats with our comprehensive security
+                                    services. We offer vulnerability assessments, network monitoring, and implementation
+                                    of robust security protocols to safeguard your data and devices.</p>
                             </div>
                         </div>
                     </div>
@@ -258,7 +275,10 @@
                         <div class="content center">
                             <h4>IoT Training and Support</h4>
                             <div class="text">
-                                <p>Equip yourself and your team with the knowledge and skills needed to maximize the potential of IoT technology. We provide training sessions, workshops, and ongoing support to ensure you have the confidence to effectively manage and utilize your IoT infrastructure.</p>
+                                <p>Equip yourself and your team with the knowledge and skills needed to maximize the
+                                    potential of IoT technology. We provide training sessions, workshops, and ongoing
+                                    support to ensure you have the confidence to effectively manage and utilize your IoT
+                                    infrastructure.</p>
                             </div>
                         </div>
                     </div>
@@ -270,20 +290,34 @@
         </div>
     </section>
 
-    <div class="container"><div class="border-bottom"></div></div>
+    <div class="container">
+        <div class="border-bottom"></div>
+    </div>
 
     <section class="clients-section sec-padd">
         <div class="container">
             <div class="section-title">
-                <h2>our partners</h2>
+                <h2>Our partners</h2>
             </div>
             <div class="client-carousel owl-carousel owl-theme">
 
-                <div class="item tool_tip" title="media partner">
-                    <img src="{{ asset('images/time-net.png') }}" style="width: auto; height: 56px;" alt="TimeNet">
+                <div class="item tool_tip" title="Netvox">
+                    <a target="_blank" href="http://www.netvox.com.tw">
+                        <img src="{{ asset('images/partners/netvox-logo.jpg') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
                 </div>
-                <div class="item tool_tip" title="media partner">
-                    <img src="{{ asset('images/everythingiot.png') }}" style="width: auto; height: 56px;"  alt="EverythingIOT">
+                <div class="item tool_tip" title="Tektelic">
+                    <a target="_blank" href="https://tektelic.com/">
+                        <img src="{{ asset('images/partners/tektelic-logo.jpg') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Seeed">
+                    <a target="_blank" href="https://www.seeedstudio.com/">
+                        <img src="{{ asset('images/partners/seed.jpg') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
                 </div>
 
             </div>
