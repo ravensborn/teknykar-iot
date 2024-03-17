@@ -56,7 +56,7 @@
                         </div>
                         <h4>Quick Contact</h4>
                         <div class="text">
-                            <p>Ph: +964 (750) 380-7676<br>Email: sale@teknykar.com</p>
+                            <p>Ph: +964 (750) 380-7676<br>Email: sales@teknykar.com</p>
                         </div>
                     </div>
                 </div>

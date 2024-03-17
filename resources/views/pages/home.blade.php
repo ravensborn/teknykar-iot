@@ -320,6 +320,67 @@
                     </a>
                 </div>
 
+                <div class="item tool_tip" title="Milesight">
+                    <a target="_blank" href="https://www.milesight.com/">
+                        <img src="{{ asset('images/partners/milesight.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Browan">
+                    <a target="_blank" href="https://www.browan.com/">
+                        <img src="{{ asset('images/partners/browan.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Teltonika">
+                    <a target="_blank" href="https://teltonika.com/">
+                        <img src="{{ asset('images/partners/teltonika.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Planet Technology">
+                    <a target="_blank" href="https://planet.com.tw/">
+                        <img src="{{ asset('images/partners/planet.jpg') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="ITELITE">
+                    <a target="_blank" href="https://itelite.net">
+                        <img src="{{ asset('images/partners/itelite.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Dragino">
+                    <a target="_blank" href="https://www.dragino.com/">
+                        <img src="{{ asset('images/partners/dragino.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Everything IOT">
+                    <a target="_blank" href="https://everythingiot.net">
+                        <img src="{{ asset('images/partners/everythingiot.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="Asiacell">
+                    <a target="_blank" href="https://asiacell.com/">
+                        <img src="{{ asset('images/partners/asiacell.png') }}" style="width: auto; height: 56px;"
+                             alt="Partner">
+                    </a>
+                </div>
+                <div class="item tool_tip" title="InfinitiGPS">
+                    <a target="_blank" href="https://infinitigps.com/">
+                        <img src="{{ asset('images/partners/infinitigps.png') }}" style="width: auto; height: 70px;"
+                             alt="Partner">
+                        InfinitiGPS
+                    </a>
+                </div>
+                <div class="item tool_tip" title="TimeNet">
+                    <a target="_blank" href="https://time-net.net/">
+                        <img src="{{ asset('images/partners/time-net.png') }}" style="width: auto; height: 60px;"
+                             alt="Partner">
+                    </a>
+                </div>
             </div>
         </div>
     </section>

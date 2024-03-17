@@ -41,13 +41,15 @@
 
                     <ul class="top-bar-info">
                         <li><i class="icon-technology"></i>Phone: +964 (750) 380-7676</li>
-                        <li><i class="icon-note2"></i>sale@teknykar.com</li>
+                        <li><i class="icon-note2"></i>sales@teknykar.com</li>
                     </ul>
                 </div>
                 <div class="col-right float_right">
                     <ul class="social">
                         <li>Stay Connected: </li>
-                        <li><a href="https://www.linkedin.com/company/teknykar-iot/"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/teknykar-iot"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.facebook.com/teknykar2023"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/teknykar_iot"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                     <div class="link">
                         <a href="{{ route('contact-us') }}" class="thm-btn">Contact Us</a>
@@ -79,8 +81,11 @@
                         <ul class="menuzord-menu">
                             <li @class(['active' => request()->routeIs('home')])><a href="{{ route('home') }}">Home</a></li>
 
-                            <li>
-                                <a @class(['active' => request()->routeIs('about')]) href="{{ route('about') }}">About us</a>
+                            <li><a href="#">Services</a>
+                                <ul class="dropdown">
+                                    <li><a href="#">Service 1</a></li>
+                                    <li><a href="#">Service 2</a></li>
+                                </ul>
                             </li>
 
                             <li><a href="#">Shop</a>
@@ -94,6 +99,10 @@
                                 <ul class="dropdown">
                                     <li><a href="https://everythingiot.net">Everything IOT</a></li>
                                 </ul>
+                            </li>
+
+                            <li>
+                                <a @class(['active' => request()->routeIs('about')]) href="{{ route('about') }}">About us</a>
                             </li>
 
                             <li><a @class(['active' => request()->routeIs('contact-us')]) href="{{ route('contact-us') }}">Contact us</a></li>
@@ -149,7 +158,7 @@
                             <!--Footer Column-->
                             <div class="footer-column col-md-4 col-sm-4 col-xs-12">
                                 <div class="footer-widget links-widget">
-                                    <h3 class="footer-title">Our Services</h3>
+                                    <h3 class="footer-title">Our Differences</h3>
                                     <div class="widget-content">
                                         <ul class="list">
                                             <li>
@@ -182,11 +191,13 @@
                                         <ul class="contact-info">
                                             <li><span class="icon-signs"></span>44001, Ankawa Khabat Street, <br>Erbil, KRI</li>
                                             <li><span class="icon-phone-call"></span> Phone: +964 (750) 380-7676</li>
-                                            <li><span class="icon-e-mail-envelope"></span>sale@teknykar.com</li>
+                                            <li><span class="icon-e-mail-envelope"></span>sales@teknykar.com</li>
                                         </ul>
                                     </div>
                                     <ul class="social">
-                                        <li><a href="https://www.linkedin.com/company/teknykar-iot/"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/teknykar-iot"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/teknykar2023"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://www.instagram.com/teknykar_iot"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
