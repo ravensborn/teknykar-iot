@@ -39,8 +39,8 @@ Route::post('/send-support-email', function () {
         'message' => 'required|string|max:10000'
     ]);
 
-//    $email = 'sale@teknykar.com';
-    $email = 'yad.hoshyar@gmail.com';
+    $email = 'sale@teknykar.com';
+//    $email = 'yad.hoshyar@gmail.com';
 
     Mail::send(new \App\Mail\SupportMail($email, $validated));
 
