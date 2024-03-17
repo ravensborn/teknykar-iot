@@ -83,8 +83,12 @@
 
                             <li><a href="#">Services</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Service 1</a></li>
-                                    <li><a href="#">Service 2</a></li>
+                                    <li><a href="#">Connection</a></li>
+                                    <li><a href="#">LNS</a></li>
+                                    <li><a href="#">Mobile Application</a></li>
+                                    <li><a href="#">Web Application</a></li>
+                                    <li><a href="#">IOT Sensors</a></li>
+                                    <li><a href="#">IOT Development</a></li>
                                 </ul>
                             </li>
 
@@ -97,7 +101,8 @@
 
                             <li><a href="#">IOT Platform</a>
                                 <ul class="dropdown">
-                                    <li><a href="https://everythingiot.net">Everything IOT</a></li>
+                                    <li><a href="#">Teknykar Platform</a></li>
+                                    <li><a href="#">Teknykar LNS</a></li>
                                 </ul>
                             </li>
 
