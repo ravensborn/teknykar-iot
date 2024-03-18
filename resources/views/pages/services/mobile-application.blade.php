@@ -18,7 +18,7 @@
                                 <a href="{{ route('home') }}">Services</a>
                             </li>
                             <li>
-                                Organization
+                                Mobile Application
                             </li>
                         </ul><!-- /.list-line -->
                     </div><!-- /.pull-left -->
@@ -31,8 +31,18 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="text-content">
-
-                        <p>IoT (Internet of Things) is reshaping organizations, offering unprecedented opportunities for innovation, efficiency, and competitiveness. By connecting devices, sensors, and systems, IoT enables organizations to gather and analyze vast amounts of data, driving informed decision-making and enhancing operational efficiency. From optimizing supply chains and streamlining logistics to monitoring equipment performance and ensuring workplace safety, IoT solutions offer a wide range of applications across industries. Moreover, IoT facilitates the creation of smart environments, enabling organizations to automate processes, reduce costs, and improve overall productivity. With the ability to monitor and control assets remotely, IoT empowers organizations to respond swiftly to changing market dynamics and customer demands. As IoT continues to evolve and mature, organizations are leveraging its transformative potential to drive growth, foster innovation, and maintain a competitive edge in the digital age.</p>
+                        <h3>Mobile Application</h3>
+                        <br>
+                        <p>
+                            Teknykar's Mobile Application empowers users to stay connected and in control of their IoT
+                            devices from the palm of their hand. With intuitive interfaces and powerful features, our
+                            mobile app offers seamless access to real-time data, alerts, and remote control
+                            functionalities. Whether it's adjusting smart thermostats, monitoring security cameras, or
+                            managing connected appliances, users can effortlessly interact with their IoT ecosystem
+                            anytime, anywhere. Additionally, our mobile app prioritizes user privacy and security,
+                            employing robust encryption protocols to safeguard sensitive information and ensure a secure
+                            IoT experience.
+                        </p>
 
                     </div>
                 </div>

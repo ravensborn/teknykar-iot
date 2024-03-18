@@ -18,7 +18,7 @@
                                 <a href="{{ route('home') }}">Services</a>
                             </li>
                             <li>
-                                Performance
+                                IOT Development
                             </li>
                         </ul><!-- /.list-line -->
                     </div><!-- /.pull-left -->
@@ -31,9 +31,19 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="text-content">
-
-                        <p>IoT (Internet of Things) is revolutionizing performance management across industries, offering unprecedented insights and capabilities to optimize operations and enhance efficiency. By integrating sensors, devices, and connectivity into various systems and processes, organizations can monitor and analyze performance metrics in real-time. Whether it's tracking the performance of manufacturing equipment, monitoring energy consumption in buildings, or optimizing transportation logistics, IoT enables organizations to gain granular visibility into performance data and identify areas for improvement. Moreover, IoT facilitates predictive maintenance, allowing organizations to anticipate and address issues before they impact performance. With IoT-driven analytics, organizations can make data-driven decisions, streamline processes, and drive continuous improvement. As IoT technologies continue to advance, organizations are poised to achieve even greater levels of performance optimization, driving innovation and competitive advantage in the digital era.</p>
-
+                        <h3>IOT Development</h3>
+                        <br>
+                        <p>
+                            Teknykar's IoT Development services empower businesses and organizations to bring their
+                            innovative IoT ideas to life, from concept to deployment. Our team of experienced developers
+                            and engineers specializes in designing and implementing bespoke IoT solutions tailored to
+                            our clients' unique requirements and objectives. Whether it's prototyping new devices,
+                            developing custom firmware, or building scalable cloud infrastructure, Teknykar offers
+                            end-to-end support throughout the entire IoT development lifecycle. With a focus on
+                            scalability, security, and interoperability, our IoT development services enable businesses
+                            to harness the full potential of connected technologies and drive digital transformation
+                            across industries.
+                        </p>
                     </div>
                 </div>
             </div>

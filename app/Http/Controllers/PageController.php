@@ -31,10 +31,24 @@ class PageController extends Controller
         return view('pages.terms-and-conditions');
     }
 
-    public function servicePage()
+    public function iotPlatformPage()
+    {
+        $page = explode('/', request()->route()->uri, 2)[1];
+
+        return view('pages.iot-platform.' . $page);
+    }
+
+    public function servicesPage()
     {
         $page = explode('/', request()->route()->uri, 2)[1];
 
         return view('pages.services.' . $page);
+    }
+
+    public function differencesPage()
+    {
+        $page = explode('/', request()->route()->uri, 2)[1];
+
+        return view('pages.differences.' . $page);
     }
 }

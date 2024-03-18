@@ -21,13 +21,23 @@ Route::get('/contact-us', [PageController::class, 'contactUs'])->name('contact-u
 Route::get('/privacy-and-policy', [PageController::class, 'privacyAndPolicy'])->name('privacy-and-policy');
 Route::get('/terms-and-conditions', [PageController::class, 'termsAndConditions'])->name('terms-and-conditions');
 
+Route::get('/iot-platform/teknykar-lns', [PageController::class, 'iotPlatformPage'])->name('iot-platform.teknykar-lns');
+Route::get('/iot-platform/teknykar-platform', [PageController::class, 'iotPlatformPage'])->name('iot-platform.teknykar-platform');
 
-Route::get('/services/business-growth', [PageController::class, 'servicePage'])->name('services.business-growth');
-Route::get('/services/sustainability', [PageController::class, 'servicePage'])->name('services.sustainability');
-Route::get('/services/performance', [PageController::class, 'servicePage'])->name('services.performance');
-Route::get('/services/advanced-analytics', [PageController::class, 'servicePage'])->name('services.advanced-analytics');
-Route::get('/services/customer-insights', [PageController::class, 'servicePage'])->name('services.customer-insights');
-Route::get('/services/organization', [PageController::class, 'servicePage'])->name('services.organization');
+Route::get('/services/connection', [PageController::class, 'servicesPage'])->name('services.connection');
+Route::get('/services/lns', [PageController::class, 'servicesPage'])->name('services.lns');
+Route::get('/services/mobile-application', [PageController::class, 'servicesPage'])->name('services.mobile-application');
+Route::get('/services/web-application', [PageController::class, 'servicesPage'])->name('services.web-application');
+Route::get('/services/iot-sensors', [PageController::class, 'servicesPage'])->name('services.iot-sensors');
+Route::get('/services/iot-development', [PageController::class, 'servicesPage'])->name('services.iot-development');
+
+
+Route::get('/differences/business-growth', [PageController::class, 'differencesPage'])->name('differences.business-growth');
+Route::get('/differences/sustainability', [PageController::class, 'differencesPage'])->name('differences.sustainability');
+Route::get('/differences/performance', [PageController::class, 'differencesPage'])->name('differences.performance');
+Route::get('/differences/advanced-analytics', [PageController::class, 'differencesPage'])->name('differences.advanced-analytics');
+Route::get('/differences/customer-insights', [PageController::class, 'differencesPage'])->name('differences.customer-insights');
+Route::get('/differences/organization', [PageController::class, 'differencesPage'])->name('differences.organization');
 
 Route::post('/send-support-email', function () {
 

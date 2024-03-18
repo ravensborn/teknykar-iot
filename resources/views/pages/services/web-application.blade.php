@@ -18,7 +18,7 @@
                                 <a href="{{ route('home') }}">Services</a>
                             </li>
                             <li>
-                                Business Growth
+                                Web Application
                             </li>
                         </ul><!-- /.list-line -->
                     </div><!-- /.pull-left -->
@@ -31,9 +31,17 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="text-content">
-
-                        <p>The growth of IoT (Internet of Things) in the business realm has been remarkable, with its transformative potential extending across industries. As more devices become interconnected, businesses are leveraging IoT technologies to enhance operations, drive efficiency, and unlock new revenue streams. One significant aspect contributing to IoT's business growth is its ability to collect and analyze vast amounts of data in real-time, providing invaluable insights for decision-making and strategic planning. From optimizing supply chains and improving asset management to enhancing customer experiences and enabling predictive maintenance, IoT solutions are revolutionizing traditional business models. Additionally, IoT fosters innovation, encouraging the development of new products and services that cater to evolving consumer needs. With the proliferation of connected devices and advancements in IoT technologies, businesses are poised to capitalize on this growth trajectory, driving increased productivity, profitability, and competitiveness in the global marketplace.</p>
-
+                        <h3>Web Application</h3>
+                        <br>
+                        <p>
+                            Teknykar's Web Application serves as a comprehensive hub for managing and analyzing IoT
+                            data, providing users with actionable insights and enhanced visibility into their connected
+                            devices. With customizable dashboards, interactive visualizations, and advanced analytics
+                            tools, our web app empowers businesses and individuals to make informed decisions and
+                            optimize their IoT deployments. From monitoring sensor data trends to identifying potential
+                            performance bottlenecks, Teknykar's web-based interface offers unparalleled flexibility and
+                            scalability for managing IoT ecosystems of any size.
+                        </p>
                     </div>
                 </div>
             </div>

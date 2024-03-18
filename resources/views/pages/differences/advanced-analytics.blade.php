@@ -5,7 +5,7 @@
     <div class="inner-banner text-center">
         <div class="container">
             <div class="box">
-                <h3>Services</h3>
+                <h3>Differences</h3>
             </div><!-- /.box -->
             <div class="breadcumb-wrapper">
                 <div class="clearfix">
@@ -15,7 +15,7 @@
                                 <a href="{{ route('home') }}">Home</a>
                             </li>
                             <li>
-                                <a href="{{ route('home') }}">Services</a>
+                                <a href="{{ route('home') }}">Differences</a>
                             </li>
                             <li>
                                 Advanced Analytics

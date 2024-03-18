@@ -83,12 +83,12 @@
 
                             <li><a href="#">Services</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Connection</a></li>
-                                    <li><a href="#">LNS</a></li>
-                                    <li><a href="#">Mobile Application</a></li>
-                                    <li><a href="#">Web Application</a></li>
-                                    <li><a href="#">IOT Sensors</a></li>
-                                    <li><a href="#">IOT Development</a></li>
+                                    <li><a href="{{ route('services.connection') }}">Connection</a></li>
+                                    <li><a href="{{ route('services.lns') }}">LNS</a></li>
+                                    <li><a href="{{ route('services.mobile-application') }}">Mobile Application</a></li>
+                                    <li><a href="{{ route('services.web-application') }}">Web Application</a></li>
+                                    <li><a href="{{ route('services.iot-sensors') }}">IOT Sensors</a></li>
+                                    <li><a href="{{ route('services.iot-development') }}">IOT Development</a></li>
                                 </ul>
                             </li>
 
@@ -101,8 +101,8 @@
 
                             <li><a href="#">IOT Platform</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Teknykar Platform</a></li>
-                                    <li><a href="#">Teknykar LNS</a></li>
+                                    <li><a href="{{ route('iot-platform.teknykar-platform') }}">Teknykar Platform</a></li>
+                                    <li><a href="{{route('iot-platform.teknykar-lns')}}">Teknykar LNS</a></li>
                                 </ul>
                             </li>
 
@@ -167,22 +167,22 @@
                                     <div class="widget-content">
                                         <ul class="list">
                                             <li>
-                                                <a href="{{ route('services.business-growth') }}">Business Growth</a>
+                                                <a href="{{ route('differences.business-growth') }}">Business Growth</a>
                                             </li>
                                             <li>
-                                                <a href="{{ route('services.sustainability') }}">Sustainability</a>
+                                                <a href="{{ route('differences.sustainability') }}">Sustainability</a>
                                             </li>
                                             <li>
-                                                <a href="{{ route('services.performance') }}">Performance</a>
+                                                <a href="{{ route('differences.performance') }}">Performance</a>
                                             </li>
                                             <li>
-                                                <a href="{{ route('services.advanced-analytics') }}">Advanced Analytics</a>
+                                                <a href="{{ route('differences.advanced-analytics') }}">Advanced Analytics</a>
                                             </li>
                                             <li>
-                                                <a href="{{ route('services.customer-insights') }}">Customer Insights</a>
+                                                <a href="{{ route('differences.customer-insights') }}">Customer Insights</a>
                                             </li>
                                             <li>
-                                                <a href="{{ route('services.organization') }}">Organization</a>
+                                                <a href="{{ route('differences.organization') }}">Organization</a>
                                             </li>
                                         </ul>
                                     </div>
