@@ -103,6 +103,7 @@
                                 <ul class="dropdown">
                                     <li><a href="{{ route('iot-platform.teknykar-platform') }}">Teknykar Platform</a></li>
                                     <li><a href="{{route('iot-platform.teknykar-lns')}}">Teknykar LNS</a></li>
+                                    <li><a href="https://teknykar.com">Teknykar</a></li>
                                 </ul>
                             </li>
 
