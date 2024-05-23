@@ -47,6 +47,7 @@
                 <div class="col-right float_right">
                     <ul class="social">
                         <li>Stay Connected: </li>
+                        <li><a href="https://www.youtube.com/@Teknykar-IOT"><i class="fa fa-youtube"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/teknykar-iot"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.facebook.com/teknykar2023"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/teknykar_iot"><i class="fa fa-instagram"></i></a></li>
@@ -201,6 +202,7 @@
                                         </ul>
                                     </div>
                                     <ul class="social">
+                                        <li><a href="https://www.youtube.com/@Teknykar-IOT"><i class="fa fa-youtube"></i></a></li>
                                         <li><a href="https://www.linkedin.com/company/teknykar-iot"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="https://www.facebook.com/teknykar2023"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="https://www.instagram.com/teknykar_iot"><i class="fa fa-instagram"></i></a></li>
